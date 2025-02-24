@@ -19,9 +19,3 @@ OOP Concepts (Classes, Inheritance, Encapsulation)
 Clone the repo:
 bash
 git clone https://github.com/your-username/currency-converter.git
-Compile the code:
-bash
-g++ currency_converter.cpp -o currency_converter
-Run the program:
-bash
-./currency_converter
